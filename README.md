@@ -35,9 +35,9 @@ Sou estudante de **Ciência da Computação (BCC)** e desenvolvedor apaixonado p
 ### 📫 Como me encontrar
 
 - **Email:** [igormaikel2024@gmail.com]
-
-<br>
 ---
+<br>
+
 ### 🛠️ Minhas Ferramentas
 
 <div align="center">
