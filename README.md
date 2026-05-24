@@ -37,24 +37,11 @@ Sou estudante de **Ciência da Computação (BCC)** e desenvolvedor apaixonado p
 - **Email:** [igormaikel2024@gmail.com]
 
 <br>
-
-
+---
 ### 🛠️ Minhas Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/-%20-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-%20-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-%20-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-%20-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-
-  <br> <img src="https://img.shields.io/badge/-%20-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/-%20-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/-%20-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
-
-  <br> <img src="https://img.shields.io/badge/-%20-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-%20-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/-%20-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=lua,java,python,c,cpp,cs,bash" /><br><br>
+  <img src="https://skillicons.dev/icons?i=unity,godot,aseprite" /><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git" />
 </div>
