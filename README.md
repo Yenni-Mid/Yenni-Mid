@@ -35,12 +35,7 @@ Sou estudante de **Ciência da Computação (BCC)** e desenvolvedor apaixonado p
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [Link para o seu LinkedIn]
-- **Portfólio / Itch.io:** [Link para seus jogos, se tiver]
-- **Email:** [Seu email de contato profissional]
+- **Email:** [igormaikel2024@gmail.com]
 
 <br>
 
-<div align="center">
-  <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Banner Yenni Indie Game Developer" width="600"/>
-</div>
