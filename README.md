@@ -13,7 +13,6 @@ Sou estudante de **Ciência da Computação (BCC)** e desenvolvedor apaixonado p
 - 🎓 Graduando em **Ciência da Computação**.
 - ⚙️ Tenho experiência prática com **administração de infraestrutura e servidores** (incluindo configuração, gerenciamento de instâncias e deploy focado em IA).
 - 🎮 Como **Desenvolvedor Indie**, adoro unir programação e *world-building*, criando mecânicas sólidas e narrativas imersivas.
-- 🤟 Acredito que a tecnologia deve ser para todos: possuo formação em **Atendimento Acessível em Libras**.
 - ✍️ Nas horas vagas, estudo escrita criativa, design de mundos e exploro o desenvolvimento de mods e utilitários.
 
 ---
