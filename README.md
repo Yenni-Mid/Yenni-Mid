@@ -41,7 +41,5 @@ Sou estudante de **Ciência da Computação (BCC)** e desenvolvedor apaixonado p
 ### 🛠️ Minhas Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,python,c,cpp,cs,bash" /><br><br>
-  <img src="https://skillicons.dev/icons?i=unity,godot,aseprite" /><br><br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git" />
+  <img src="https://skillicons.dev/icons?i=lua,java,python,c,cpp,cs,bash,unity,godot,linux,ubuntu,git&perline=4" alt="Minhas Habilidades" />
 </div>
