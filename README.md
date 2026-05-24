@@ -39,13 +39,22 @@ Sou estudante de **Ciência da Computação (BCC)** e desenvolvedor apaixonado p
 <br>
 
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 🛠️ Minhas Ferramentas
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+<div align="center">
+  ![Lua](https://img.shields.io/badge/-%20-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  ![Java](https://img.shields.io/badge/-%20-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/-%20-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/-%20-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-%20-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Unity](https://img.shields.io/badge/-%20-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Godot](https://img.shields.io/badge/-%20-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+  ![Aseprite](https://img.shields.io/badge/-%20-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+
+  ![Linux](https://img.shields.io/badge/-%20-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/-%20-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Git](https://img.shields.io/badge/-%20-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
