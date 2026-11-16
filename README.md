@@ -134,7 +134,27 @@
         <sub>Repositório de perfil temático inspirado em <i>Deltarune</i>, com sprites, UI customizada e assets em pixel art.</sub>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="./assets/noelle-celebrate.gif" height="82" alt="Noelle Celebrate" />
+      </td>
+      <td>
+        <b>🌐 <a href="https://yenni-mid.github.io/">Portfólio Dark World (GitHub Pages)</a></b> <i>(Público)</i><br />
+        <sub>Site interativo com caixa de diálogo estilo <i>Deltarune</i>, barra de grupo e menu de batalha (<a href="https://github.com/Yenni-Mid/Yenni-Mid.github.io">código-fonte</a>).</sub>
+      </td>
+    </tr>
   </table>
+</div>
+
+<br />
+
+<div align="center">
+  <sub><b>★ ATIVIDADE NO DARK WORLD (SNAKE CONTRIBUTION GRAPH) ★</b></sub><br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yenni-Mid/Yenni-Mid/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yenni-Mid/Yenni-Mid/output/github-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Yenni-Mid/Yenni-Mid/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -146,6 +166,10 @@
 
 <div align="center">
   <br />
+  <a href="https://yenni-mid.github.io/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-yenni--mid.github.io-14182e?style=for-the-badge&logo=githubpages&logoColor=78ffa0&labelColor=000000" alt="Portfólio" />
+  </a>
+  &nbsp;
   <a href="mailto:igormaikel2024@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-igormaikel2024%40gmail.com-14182e?style=for-the-badge&logo=gmail&logoColor=66e8ff&labelColor=000000" alt="Email" />
   </a>
