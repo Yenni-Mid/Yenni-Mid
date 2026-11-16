@@ -1,45 +1,160 @@
-<img width="3104" height="1376" alt="Yenni" src="https://github.com/user-attachments/assets/7995656f-204f-4146-af73-1136375759c2" />
+<div align="center">
+  <img src="./assets/banner-deltarune.png" width="100%" alt="Yenni — Deltarune Dark World Profile" />
+</div>
 
-
-
-
-
-# Olá, eu sou o Igor Maikel! 👋
-
-Sou estudante de **Ciência da Computação (BCC)** e desenvolvedor apaixonado por transformar lógica e infraestrutura em experiências interativas. Minha jornada na tecnologia transita desde a escovação de bits e administração de servidores até o desenvolvimento de jogos indie.
-
-### 👨‍💻 Sobre Mim
-
-- 🎓 Graduando em **Ciência da Computação**.
-- ⚙️ Tenho experiência prática com **administração de infraestrutura e servidores** (incluindo configuração, gerenciamento de instâncias e deploy focado em IA).
-- 🎮 Como **Desenvolvedor Indie**, adoro unir programação e *world-building*, criando mecânicas sólidas e narrativas imersivas.
-- ✍️ Nas horas vagas, estudo escrita criativa, design de mundos e exploro o desenvolvimento de mods e utilitários.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Linguagens:** `C` | `C++` | `Python` | `C#` 
-**Game Dev:** `Unity` | `Godot` 
-**Infra/Outros:** `Linux` | `Git` | `Servidores/Hospedagem`
-
----
-
-### 🚀 O que estou fazendo agora
-
-- 🕹️ Desenvolvendo e aprendendo com o **Projetinho_gameplays**.
-- 🧠 Explorando arquitetura de servidores e otimização de instâncias.
-
----
-
-### 📫 Como me encontrar
-
-- **Email:** [igormaikel2024@gmail.com]
----
-<br>
-
-### 🛠️ Minhas Ferramentas
+<br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java,python,c,cpp,cs,bash,unity,godot,linux,ubuntu,git&perline=4" alt="Minhas Habilidades" />
+  <table>
+    <tr>
+      <td align="center" width="170">
+        <img src="./assets/kris-idle.gif" height="90" alt="Kris" /><br />
+        <sub><b>KRIS</b> • <code>Lógica & Código</code></sub>
+      </td>
+      <td align="center" width="170">
+        <img src="./assets/susie-idle.gif" height="90" alt="Susie" /><br />
+        <sub><b>SUSIE</b> • <code>Game Dev Indie</code></sub>
+      </td>
+      <td align="center" width="170">
+        <img src="./assets/ralsei-idle.gif" height="90" alt="Ralsei" /><br />
+        <sub><b>RALSEI</b> • <code>Infra & Servidores</code></sub>
+      </td>
+      <td align="center" width="170">
+        <img src="./assets/noelle-idle.gif" height="90" alt="Noelle" /><br />
+        <sub><b>NOELLE</b> • <code>Noelle-bot & IA</code></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="#sobre-mim"><img src="./assets/icon-act.png" width="54" alt="ACT — Sobre Mim" title="ACT — Sobre Mim" /></a>&nbsp;&nbsp;
+  <a href="#inventario"><img src="./assets/icon-item.png" width="54" alt="ITEM — Inventário & Stack" title="ITEM — Inventário & Stack" /></a>&nbsp;&nbsp;
+  <a href="#projetos"><img src="./assets/icon-magic.png" width="54" alt="MAGIC — Projetos" title="MAGIC — Projetos" /></a>&nbsp;&nbsp;
+  <a href="#contato"><img src="./assets/icon-spare.png" width="54" alt="SPARE — Contato" title="SPARE — Contato" /></a>
+</div>
+
+---
+
+<a id="sobre-mim"></a>
+<div align="center">
+  <img src="./assets/header-sobre.png" width="100%" alt="[ACT] SOBRE MIM ★ CHECK" />
+</div>
+
+> **`* Você usa CHECK em Igor Maikel (Yenni) — LV 20 · ATK 15 · DEF 20`**  
+> *"* Estudante de Ciência da Computação transformando lógica, infraestrutura e histórias em mundos interativos."*
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="./assets/noelle-face.png" width="88" alt="Noelle Face Sprite" />
+    </td>
+    <td>
+      <ul>
+        <li>🎓 Graduando em <b>Ciência da Computação (BCC)</b>.</li>
+        <li>⚙️ Experiência prática com <b>infraestrutura, Linux e servidores</b> — configuração, gerenciamento de instâncias e deploy focado em <b>IA</b>.</li>
+        <li>🎮 Como <b>Desenvolvedor Indie</b>, combino programação sólida, <i>world-building</i> e narrativas interativas.</li>
+        <li>✍️ Nas horas vagas, exploro escrita criativa, design de mundos, mods e utilitários experimentais.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="inventario"></a>
+<div align="center">
+  <img src="./assets/header-tech.png" width="100%" alt="[ITEM] INVENTÁRIO & STACK" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="left">⚔️ Slot</th>
+      <th align="left">Equipamentos</th>
+      <th align="left">Especialidade</th>
+    </tr>
+    <tr>
+      <td><b>ARMAS</b></td>
+      <td><code>C</code> · <code>C++</code> · <code>C#</code> · <code>Python</code> · <code>Lua</code> · <code>Java</code> · <code>Bash</code></td>
+      <td>Sistemas, automação, bots e gameplay</td>
+    </tr>
+    <tr>
+      <td><b>MAGIA</b></td>
+      <td><code>Godot</code> · <code>Unity</code> · <code>GDScript</code></td>
+      <td>Jogos indie, prototipação e world-building</td>
+    </tr>
+    <tr>
+      <td><b>ARMADURA</b></td>
+      <td><code>Linux</code> · <code>Ubuntu</code> · <code>Git</code> · <code>Servidores / IA</code></td>
+      <td>Infraestrutura, hospedagem e deploy de instâncias</td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=lua,java,python,c,cpp,cs,bash,unity,godot,linux,ubuntu,git&perline=6&theme=dark" alt="Minhas Habilidades" />
+</div>
+
+---
+
+<a id="projetos"></a>
+<div align="center">
+  <img src="./assets/header-projetos.png" width="100%" alt="[MAGIC] DARK FOUNTAINS ★ PROJETOS" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="./assets/noelle-spell.gif" height="86" alt="Noelle Spell" />
+      </td>
+      <td>
+        <b>❄️ Noelle-bot</b> <i>(Privado · em desenvolvimento ativo)</i><br />
+        <sub><i>Anteriormente Sunny-BOT</i> — Assistente autônomo modular com IA, automações, scripts e integrações.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="./assets/lancer-bike.gif" height="72" alt="Lancer Bike" />
+      </td>
+      <td>
+        <b>🎮 <a href="https://github.com/Yenni-Mid/Projetinho_gameplays">Projetinho_gameplays</a></b> <i>(Público)</i><br />
+        <sub>Laboratório prático de programação especializada em desenvolvimento de jogos e mecânicas interativas.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="./assets/spamton-jump.gif" height="76" alt="Spamton" />
+      </td>
+      <td>
+        <b>★ <a href="https://github.com/Yenni-Mid/Yenni-Mid">Yenni-Mid</a></b> <i>(Público)</i><br />
+        <sub>Repositório de perfil temático inspirado em <i>Deltarune</i>, com sprites, UI customizada e assets em pixel art.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<a id="contato"></a>
+<div align="center">
+  <img src="./assets/header-contato.png" width="100%" alt="[SPARE] SAVE POINT ★ CONTATO" />
+</div>
+
+<div align="center">
+  <br />
+  <a href="mailto:igormaikel2024@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-igormaikel2024%40gmail.com-14182e?style=for-the-badge&logo=gmail&logoColor=66e8ff&labelColor=000000" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yenni-Mid">
+    <img src="https://img.shields.io/badge/GITHUB-@Yenni--Mid-14182e?style=for-the-badge&logo=github&logoColor=ffe259&labelColor=000000" alt="GitHub" />
+  </a>
+  <br /><br />
+  <img src="./assets/save-box.gif" width="100%" alt="* A determinação e novas ideias enchem você de energia." />
+  <br /><br />
+  <img src="./assets/noelle-victory.gif" height="72" alt="Noelle Victory" />
 </div>
