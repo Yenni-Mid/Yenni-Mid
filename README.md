@@ -109,11 +109,20 @@
   <table>
     <tr>
       <td align="center" width="110">
+        <img src="./assets/kris-idle.gif" height="82" alt="Kris" />
+      </td>
+      <td>
+        <b>☀️ <a href="https://github.com/Yenni-Mid/O-Dia-que-o-Sol-sorriu">O-Dia-que-o-Sol-sorriu</a></b> <i>(Público · Godot Engine 4)</i><br />
+        <sub>Jogo de terror psicológico 3D em primeira pessoa com estética PS1, shaders CRT/VHS, mapa diegético em 3D e mecânicas furtivas de luz e sanidade.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
         <img src="./assets/noelle-spell.gif" height="86" alt="Noelle Spell" />
       </td>
       <td>
         <b>❄️ Noelle-bot</b> <i>(Privado · em desenvolvimento ativo)</i><br />
-        <sub><i>Anteriormente Sunny-BOT</i> — Assistente autônomo modular com IA, automações, scripts e integrações.</sub>
+        <sub><i>Anteriormente Sunny-BOT</i> — Assistente autônomo modular com IA, voz, RPG engine, PNGTuber no OBS (<code>/avatar</code>) e integrações com Discord, Minecraft e Godot.</sub>
       </td>
     </tr>
     <tr>
